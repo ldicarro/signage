@@ -1,0 +1,33 @@
+{
+	"new": "test",
+	"slides": [
+		{
+			"id": "123sadf23",
+			"name": "Slide One",
+			"start": "now",
+			"end": "12:00:00",
+			"file": "./slides/ncpPb8X.jpg"
+		},
+		{
+			"id": "svsv212312",
+			"name": "Slide Two",
+			"start": "now",
+			"end": "12:00:00",
+			"file": "./slides/PDFPSmT.jpg"
+		},
+		{
+			"id": "gfafa54adsfa1a",
+			"name": "Slide Three",
+			"start": "now",
+			"end": "12:00:00",
+			"file": "./slides/PGYGRfu.jpg"
+		},
+		{
+			"id": "gfafa54adsfa1a",
+			"name": "Slide Four",
+			"start": "now",
+			"end": "12:00:00",
+			"file": "./slides/TUR31086.jpg"
+		}
+	]
+}
